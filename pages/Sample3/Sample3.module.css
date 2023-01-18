@@ -53,17 +53,17 @@
   position: absolute;
   top: 100%;
   right:0;
-  border-top: 6vw solid #fff;  /* 三角を白にする */ 
-  border-left: 30vw solid transparent;	
+  border-top: 60px solid #fff;  /* 三角を白にする */ 
+  border-left: 346px solid transparent;	
 }
 
 .tr2{
   content: '';
   position: absolute;
   top: 35px;
-  left: 35%;
-  border-bottom: 6vw solid #fff;  /* 三角を白にする */ 
-  border-right: 30vw solid transparent;	
+  right: 30%;
+  border-bottom: 60px solid #fff;  /* 三角を白にする */ 
+  border-right: 346px solid transparent;	
 }
 
 

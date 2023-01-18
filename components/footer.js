@@ -27,7 +27,7 @@ const Footer = () => {
 
 					<li className={style.li}>
 						<Link href="/Sample3/about">
-							Sample3
+							SampleBox
 						</Link>
 					</li>
 		

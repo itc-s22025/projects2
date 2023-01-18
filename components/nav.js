@@ -12,13 +12,13 @@ const Nav = () => {
 
 				<li>
 					<Link href="/Sample2/about">
-						Sample2
+						SampleGrid
 					</Link>
 				</li>
 
 				<li>
 					<Link href="/Sample3/about">
-						Sample3
+						SampleBox
 					</Link>
 				</li>
 		
