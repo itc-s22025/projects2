@@ -7,22 +7,22 @@ const Menu = () =>{
 		<>
 			<ul>
 				<li className={style.li}>
-					<Link href="/Sample5/about">
+					<Link href="/Sample5">
 						<h2 className={style.h2}>Home</h2>
 					</Link>
 				</li>
 				<li className={style.li}>
-					<Link href="/Sample5/about">
+					<Link href="/Sample5">
 						<h2 className={style.h2}>About</h2>
 					</Link>
 				</li>
 				<li className={style.li}>
-					<Link href="/Sample5/about">
+					<Link href="/Sample5">
 						<h2 className={style.h2}>Topics</h2>
 					</Link>
 				</li>
 				<li className={style.li}>
-					<Link href="/Sample5/about">
+					<Link href="/Sample5">
 						<h2 className={style.h2}>Link</h2>
 					</Link>
 				</li>
