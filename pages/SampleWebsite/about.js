@@ -5,18 +5,27 @@ const About = () => {
 		<>
 			<header>
 				<div className={styles.header}>
-				<h1>Sample Website</h1>
+					<h1 className={styles.h1}>Sample Website</h1>
 				</div>
 			</header>
 
 			<main>
-				<h2>Heading</h2>
-				<h2>Heading 2 </h2>
+				<div className={styles.main}>
+					<h2 className={styles.h2}>Heading</h2>
+						<p className={styles.h2p}>Content comes here. Content comes here. Content comes here.<br />
+						Content comes here. Content comes here. Content comes here.</p>
+					<h2 className={styles.h2}>Heading 2 </h2>
+						<p className={styles.h2p}>Content comes here. Content comes here. Content comes here.<br />
+						Content comes here. Content comes here. Content comes here.</p>
+
+				</div>
 			</main>
 
 			<footer>
-				<p>Copyright (c) 2013 xxxxxxxx. All rights reserved.</p>
-			</footer>
+				<div className={styles.footer}>
+				<p className={styles.fp}>Copyright (c) 2013 xxxxxxxx. All rights reserved.</p>
+				</div>	
+		</footer>
 		</>
 
 	)
