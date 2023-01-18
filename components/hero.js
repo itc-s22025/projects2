@@ -1,10 +1,11 @@
 import Nav from 'components/nav'
+import Menu from 'components/menu'
 
 const Hero = () =>{
 	return (
 		<div>
 			<h1>HOME</h1>
-			<Nav />
+			<Menu />
 		</div>
 	)
 }
