@@ -9,7 +9,7 @@
   padding: 20px;
   position: relative;
   text-align: center;
-  width: 300px;
+  width: 346px;
 }
 
 .h1 {
@@ -46,4 +46,33 @@
 .box:after {
   border-right: 340px solid #FFF;
   bottom: -50px;
+}
+
+.tr{
+  content: '';
+  position: absolute;
+  top: 100%;
+  right:0;
+  border-top: 6vw solid #fff;  /* 三角を白にする */ 
+  border-left: 30vw solid transparent;	
+}
+
+.tr2{
+  content: '';
+  position: absolute;
+  top: 35px;
+  left: 35%;
+  border-bottom: 6vw solid #fff;  /* 三角を白にする */ 
+  border-right: 30vw solid transparent;	
+}
+
+
+
+.trp{
+	color: #033;
+}
+
+.bg{
+	color: #033;
+	height: 600px;
 }
