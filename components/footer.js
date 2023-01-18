@@ -14,32 +14,32 @@ const Footer = () => {
 
 
 					<li className={style.li}>
-						<Link href="/Sample1/about">
+						<Link href="/Sample1">
 							SampleWebsite
 						</Link>
 					</li>
 
 					<li className={style.li}>
-						<Link href="/Sample2/about">
+						<Link href="/Sample2">
 							SampleGrid
 						</Link>
 					</li>
 
 					<li className={style.li}>
-						<Link href="/Sample3/about">
-							SampleBox
+						<Link href="/Sample3">
+							SampleNavigation
 						</Link>
 					</li>
 		
 					<li className={style.li}>
-						<Link href="/Sample4/about">
-							Sample4
+						<Link href="/Sample4">
+							SampleMart
 						</Link>
 					</li>
 			
 					<li className={style.li}>
-						<Link href="/Sample5/about">
-							Sample5
+						<Link href="/Sample5">
+							SamplePop
 						</Link>
 					</li>
 

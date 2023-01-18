@@ -5,19 +5,19 @@ const Nav = () => {
 		<nav>
 			<ul>
 				<li>
-					<Link href="/Sample1/about">
+					<Link href="/Sample1">
 						SampleWebsite
 					</Link>
 				</li>
 
 				<li>
-					<Link href="/Sample2/about">
+					<Link href="/Sample2">
 						SampleGrid
 					</Link>
 				</li>
 
 				<li>
-					<Link href="/Sample3/about">
+					<Link href="/Sample3">
 						SampleBox
 					</Link>
 				</li>
@@ -30,7 +30,7 @@ const Nav = () => {
 			
 				<li>
 					<Link href="/Sample5/about">
-						Sample5
+						SamplePop
 					</Link>
 				</li>
 

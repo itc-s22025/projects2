@@ -2,17 +2,25 @@
 	margin:0;
 	background-color: #000;
 	color: #fff;
-	position: absolute;
-	bottom: 0;
+	height: 50px;
+
 }
 
 .ul{
-	display: flex;
 	padding: 10px;
-	text-align: center;
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+
 }
 
 .li{
 	list-style: none;
 	padding-left: 25px;
+}
+
+.li:hover{
+	color:#4169e1;
+	font-weight: bold;
+	height:50px;
 }

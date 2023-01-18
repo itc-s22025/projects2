@@ -1,0 +1,36 @@
+.nav{
+  list-style-type: none;
+  margin: 4px 4px 50px;
+  overflow: hidden;
+  padding: 0;
+}
+
+.li {
+  background-color: #900;
+  border: 1px solid #300;
+  border-left: 0;
+  display: block;
+  float: left;
+  height: 48px;
+  line-height: 48px;
+  text-align: center;
+  width: 98px;
+}
+
+.li:first-child {
+  border-left: 1px solid #300;
+}
+
+.li:hover {
+  background-color: #C33;
+}
+
+.a {
+  color: #FFF;
+  display: block;
+  text-decoration: none;
+}
+
+.a:hover {
+  text-decoration: underline;
+}

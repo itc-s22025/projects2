@@ -5,8 +5,7 @@
 	padding: 10px;
 	width: 498px;
 	height: 500px;
-	float: left;
-/*	margin: 10px;*/
+	margin: 4px 4px 50px;
 }
 
 .h1{
@@ -16,7 +15,6 @@
 }
 
 .grid_column {
-	float: left;
 	overflow:hidden ;
 	width: 249px;
 	float: left;
