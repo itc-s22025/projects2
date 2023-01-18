@@ -5,7 +5,7 @@ const Nav = () => {
 		<nav>
 			<ul>
 				<li>
-					<Link href="/SampleWebsite/about">
+					<Link href="/Sample1/about">
 						SampleWebsite
 					</Link>
 				</li>

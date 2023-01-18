@@ -1,0 +1,37 @@
+.contents{
+	background-color: #EEE;
+	border: 1px solid #CCC;
+	overflow: hidden;
+	padding: 10px;
+	width: 498px;
+	height: 500px;
+	float: left;
+/*	margin: 10px;*/
+}
+
+.h1{
+	font-family: "Arial Black";
+	text-align: center;
+	padding: 50px auto; 
+}
+
+.grid_column {
+	float: left;
+	overflow:hidden ;
+	width: 249px;
+	float: left;
+}
+
+.box {
+	background-color: #FFF;
+	border: 1px solid #333;
+	float: left;
+	font-family: Arial;
+	margin: 4.5px;
+	padding: 10px;
+	width: 218px;
+}
+
+.h2{
+	padding:25px;
+}

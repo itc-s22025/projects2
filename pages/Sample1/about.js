@@ -1,4 +1,5 @@
-import styles from 'pages/SampleWebsite/SampleWebsite.module.css'
+import styles from 'pages/Sample1/SampleWebsite.module.css'
+import Footer from 'components/footer'
 
 const About = () => {
 	return (
@@ -25,7 +26,10 @@ const About = () => {
 				<div className={styles.footer}>
 				<p className={styles.fp}>Copyright (c) 2013 xxxxxxxx. All rights reserved.</p>
 				</div>	
-		</footer>
+			</footer>
+
+			<Footer />
+
 		</>
 
 	)
