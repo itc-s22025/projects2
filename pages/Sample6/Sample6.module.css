@@ -1,0 +1,51 @@
+
+.body {
+  background-color: #EDC;
+}
+
+.box {
+  margin: 10px 10px 0;
+  border: 1px solid #CCC;
+  background-color: #FFF;
+  font-family: serif;
+  text-align: center;
+  box-shadow: 0 0 10px #CCC inset;
+  width: 400px;
+}
+
+.boxhead {
+  background: #753;
+  box-shadow: 0 0 10px #333 inset;
+  padding: 10px;
+}
+
+.h1 {
+  color: #FFF;
+  margin: 0px;
+  text-shadow: 0 -2px 0 #333;
+}
+
+.boxbody {
+  margin: 0 10px;
+  background-color: #FFF;
+  font-family: serif;
+  text-align: center;
+  width: 400px;
+  padding: 10px;
+  box-shadow: 0 0 10px #CCC inset;
+}
+
+.h2 {
+  font-size: 18px;
+  margin: 12px;
+}
+
+.ul {
+  list-style-type: none;
+  padding: 5px 0 20px;
+}
+
+.bgp{
+	color: #EDC;
+	height: 500px;
+}

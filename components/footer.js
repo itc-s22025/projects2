@@ -44,6 +44,13 @@ const Footer = () => {
 						</Link>
 					</li>
 
+					<li className={style.li}>
+						<Link href="/Sample6">
+							SampleCafe
+						</Link>
+					</li>
+
+
 				</ul>
 			</nav>
 		</footer>

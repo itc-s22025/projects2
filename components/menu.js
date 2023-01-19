@@ -35,6 +35,13 @@ const Menu = () =>{
 						<h2 className={style.h2}>Pop</h2>
 					</Link>
 				</li>
+				<li className={style.li}>
+					<Link href="/Sample6">
+						<h2 className={style.h2}>Cafe</h2>
+					</Link>
+				</li>
+
+
 
 
 
