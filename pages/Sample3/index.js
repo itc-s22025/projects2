@@ -1,6 +1,5 @@
 import style from 'pages/Sample3/sample.module.css'
 import Link from 'next/link'
-import Footer from 'components/footer'
 
 const Home = () =>{
 	return(
@@ -21,7 +20,6 @@ const Home = () =>{
 
 
 			</ul>
-			<Footer />
 		</>
 	)
 }

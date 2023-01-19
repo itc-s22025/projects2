@@ -1,5 +1,4 @@
 import style from 'pages/Sample2/Sample2.module.css'
-import Footer from 'components/footer.js'
 
 const Home = () =>{
 	return (
@@ -32,9 +31,6 @@ const Home = () =>{
 						</div>
 			</div>
 		</main>
-		<footer>
-			<Footer />
-		</footer>
 		</>
 	)
 }

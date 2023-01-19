@@ -1,5 +1,4 @@
 import styles from 'pages/Sample1/SampleWebsite.module.css'
-import Footer from 'components/footer'
 
 const About = () => {
 	return (
@@ -28,7 +27,6 @@ const About = () => {
 				</div>	
 			</footer>
 
-			<Footer />
 
 		</>
 

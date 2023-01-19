@@ -1,6 +1,5 @@
 import Link from 'next/link'
 import style from 'pages/Sample5/Sample5.module.css'
-import Footer from 'components/footer'
 
 const Menu = () =>{
 	return(
@@ -28,7 +27,6 @@ const Menu = () =>{
 				</li>
 
 			</ul>
-		<Footer />
 		</>
 	)
 

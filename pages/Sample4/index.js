@@ -1,5 +1,4 @@
 import style from 'pages/Sample4/Sample4.module.css'
-import Footer from 'components/footer'
 
 const Home = () =>{
 	return (
@@ -35,7 +34,6 @@ const Home = () =>{
 
 		        		    </ul>
 </div>
-		<Footer />
 
 		</>
 
