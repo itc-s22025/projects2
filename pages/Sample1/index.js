@@ -1,8 +1,10 @@
+import Header from 'components/header'
 import styles from 'pages/Sample1/SampleWebsite.module.css'
 
 const About = () => {
 	return (
 		<>
+			<Header title="Website"/>
 			<header>
 				<div className={styles.header}>
 					<h1 className={styles.h1}>Sample Website</h1>

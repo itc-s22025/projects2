@@ -1,11 +1,13 @@
 import style from 'pages/Sample2/Sample2.module.css'
+import Header from 'components/header'
 
 const Home = () =>{
 	return (
 		<>
+		<Header title="Grid" />
 		<main>
 			<div className={style.contents}>
-				<h1>Layout</h1>
+				<h1 className={style.h1}>Layout</h1>
 					<div className={style.grid_column}>
 						<div className={style.box}>
 							<h2 className={style.h2}>Box 1</h2>

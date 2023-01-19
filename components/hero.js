@@ -1,10 +1,10 @@
 import Nav from 'components/nav'
 import Menu from 'components/menu'
 
-const Hero = () =>{
+const Hero = ({title}) =>{
 	return (
 		<div>
-			<h1>HOME</h1>
+			<h1>{title}</h1>
 			<Menu />
 		</div>
 	)

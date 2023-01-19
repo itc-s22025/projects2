@@ -1,6 +1,10 @@
-const Header = () => {
+import style from 'styles/header.module.css'
+
+const Header = ({ title }) => {
 	return (
-		<header>Header</header>
+		<div>
+		<h1 className={style.h1}>{title}</h1>
+		</div>
 	)
 }
 

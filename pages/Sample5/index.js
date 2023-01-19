@@ -1,9 +1,11 @@
 import Link from 'next/link'
 import style from 'pages/Sample5/Sample5.module.css'
+import Header from 'components/header'
 
 const Menu = () =>{
 	return(
 		<>
+			<Header title="Pop" />
 			<ul>
 				<li className={style.li}>
 					<Link href="/Sample5">

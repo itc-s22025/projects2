@@ -1,26 +1,21 @@
-.main{
-	margin:0;
+.ul{
+	display: flex;
 	background-color: #000;
 	color: #fff;
 	height: 50px;
-
-}
-
-.ul{
-	padding: 10px;
-	display: flex;
-	margin-left: auto;
-	margin-right: auto;
-
+	padding-right: 0;
 }
 
 .li{
+	height: 50px;
 	list-style: none;
-	padding-left: 25px;
+	padding: 10px 25px;
 }
 
 .li:hover{
 	color:#4169e1;
-	font-weight: bold;
-	height:50px;
+}
+
+.li:active{
+	color:#7997f2;
 }

@@ -3,13 +3,14 @@ import style from 'styles/footer.module.css'
 
 const Footer = () => {
 	return (
-		<footer className={style.main}>
+		<footer>
 			<nav>
 				<ul className={style.ul}>
 					<li className={style.li}>
 						<Link href="/">
 							HOME
 						</Link>
+	
 					</li>
 
 

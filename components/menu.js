@@ -4,7 +4,7 @@ import style from 'styles/menu.module.css'
 const Menu = () =>{
 	return(
 		<>
-			<ul>
+			<ul className={style.ul}>
 				<li className={style.li}>
 					<Link href="/">
 						<h2 className={style.h2}>HOME</h2>
