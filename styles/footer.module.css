@@ -19,3 +19,11 @@
 .li:active{
 	color:#7997f2;
 }
+
+@media (min-width: 768px){
+	.ul{
+		display:flex;
+		flex-direction: row;
+		justify-content:space-between;
+	}
+}
