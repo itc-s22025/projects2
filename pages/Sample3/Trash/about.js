@@ -1,4 +1,4 @@
-import style from 'pages/Sample3/Sample3.module.css'
+import style from 'pages/Sample3/Trash/Sample3.module.css'
 import Footer from 'components/footer'
 
 const Home = () =>{
